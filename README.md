@@ -9,4 +9,4 @@ The scraper produces .csv files, each corresponding to the following data:
 >3. Esports Teams Data
 >4. Participant Countries Data
 
-To view the analysis head over to the corresponding Github Repository. 
+To view the analysis head over to the corresponding [Github Repository](https://github.com/Kelvin123459/Esports-Analysis). 
